@@ -1,2 +1,2 @@
 # first-test
-just try
+just try,第一次尝试。
